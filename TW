@@ -23,10 +23,10 @@ using System.Collections.Generic;
 
 
 //	Minimum timespan to break between farming cycles.
-const int breakBetweenCycleDurationMinSeconds = 60 * 30;
+const int breakBetweenCycleDurationMinSeconds = ‭43.200‬ * ‭43.200‬;
 
 //	Upper limit of a random additional time for breaking between farming cycles.
-const int breakBetweenCycleDurationRandomAdditionMaxSeconds = 60 * 30;
+const int breakBetweenCycleDurationRandomAdditionMaxSeconds = ‭43.200‬ * ‭43.200‬;
 
 const int numberOfFarmCyclesToRepeatMin = 1;
 
